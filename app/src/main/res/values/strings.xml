@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuestionsApp</string>
+
+    <string-array name="chapter">
+        <item>Chapter-1</item>
+        <item>Chapter-2</item>
+        <item>Chapter-3</item>
+    </string-array>
+
+    <string-array name="subject">
+        <item>Subject-1</item>
+        <item>Subject-2</item>
+        <item>Subject-3</item>
+    </string-array>
+</resources>
